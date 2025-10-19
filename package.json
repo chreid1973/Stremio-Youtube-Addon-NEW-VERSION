@@ -1,6 +1,6 @@
 {
-  "name": "stremio-youtube-clean",
-  "version": "1.0.0",
+  "name": "stremio-youtube-addon",
+  "version": "3.4.0",
   "type": "module",
   "main": "index.js",
   "scripts": {
