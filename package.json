@@ -1,0 +1,13 @@
+{
+  "name": "stremio-youtube-clean",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.11",
+    "node-fetch": "^3.3.2"
+  }
+}
